@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class TriangleHelper {
+public class Helper {
 
 	public String getUserInput(String prompt) {
 		String inputLine = null;
